@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    position: absolute;
+
+    display: flex;
+    position: absolute;
+    flex-direction: row;
+    align-items: center;
+    gap: 32px;
+    padding-left: 72px;
+    padding-top: 40px;
+    z-index: 6;
+    cursor: pointer;
+    
+}
+
+nav a {
+    color: var(--Platform-Aliases-Texto-base, #C4C4CC);
+    font-family: 'Roboto', 'Sans Serif';
+    font-size: 21.667px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21.667px; 
+    text-decoration: none;
+
+}
+
+nav a:hover {
+    color: var(--Neutral-Colors-White, #FFF);
+    font-family: 'Roboto', 'Sans Serif';
+    font-size: 21.667px;
+    font-style: normal;
+    font-weight: 700;
+}
+
