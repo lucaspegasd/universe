@@ -1,3 +1,3 @@
-# universo
+# universe
 
-este projeto tem o intuito de informar sobre o universo e um pouco de sua historia.
+this project have the goal of inform about the universe and its history
